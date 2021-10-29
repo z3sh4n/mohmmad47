@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **ghaniwalamohmmad@gmail.com**
 
-- ⚡ Fun fact **I am self taught developer and i listen music alot**
+- ⚡ Fun fact: **I am self taught developer and i listen music alot**
 
 <h3 align="left">Languages and Tools:</h3>
 <h3 align="left"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />  
